@@ -51,7 +51,7 @@ How to Run the Project
 
 1. Clone the repository:
 
-git clone
+git clone  https://github.com/Tanishkasharma53/Smart-Pet-Adoption-System.git
 
 
 2. Install required dependencies (if any)
